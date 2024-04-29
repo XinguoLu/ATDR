@@ -1,0 +1,14 @@
+org=drug
+valid_type=cv
+model_type=mda
+select_arch=[3]
+select_nets=[1,2,3,4]
+ofile_keywords=4_nets
+epochs=100
+batch_size=64
+n_trials=10
+K=3
+alpha=0.98
+noise_factor=0.0
+models_path=./test_models/
+results_path=./test_results/
