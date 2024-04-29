@@ -1,4 +1,4 @@
-data=load('../dataset/drugNets/drugsimWmnet.txt');
+data=load('../dataset/drugNets/drugProtein.txt');
 Kstep = 3;
 alpha = 0.98;
 
